@@ -32,7 +32,8 @@ This project aims to predict the diagnosis of breast cancer using machine learni
 1. Ensure you have the necessary data files in the `data/` directory.
 2. Run the script to train and evaluate the model:
     ```bash
-    python ML_Breast_cancer.py
+    python ML Breast Cancer Diagnosis.py
+    
     ```
 
 ## Requirements

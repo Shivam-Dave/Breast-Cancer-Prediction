@@ -47,13 +47,11 @@ This project aims to predict the diagnosis of breast cancer using machine learni
 ## Project Structure
 
 breast-cancer-diagnosis-prediction/
-│
-├── data/
-│ └── breast_cancer_data.csv
-│
-├── ML_Breast_cancer.py
-├── README.md
-└── requirements.txt
+- data/
+- breast_cancer_data.csv
+- ML_Breast_cancer.py
+- README.md
+- requirements.txt
 
 
 ## Contributing
